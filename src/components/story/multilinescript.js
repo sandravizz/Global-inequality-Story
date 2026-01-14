@@ -967,7 +967,7 @@ export default {
         {
           key: "country",
           componentIndex: 3,
-          data: renderData.filter((d) => d.region === "world"),
+          data: renderData.filter((d) => d.region === "World"),
           options: {
             stroke: "var(--color-global)",
             strokeWidth: 3,
